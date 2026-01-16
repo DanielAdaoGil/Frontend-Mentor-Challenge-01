@@ -17,11 +17,11 @@
       flex-direction: column;
     }
     
-    .container{
+    main{
       background-color: hsl(0, 0%, 100%);
       height: auto;
       width: 20%;
-      margin-top: 20%;
+      margin-top: 30%;
       margin-bottom: 10px;
       padding: 10px;
       border-radius: 10px;
@@ -34,15 +34,14 @@
       border-radius: 10px;
     }
 
-    h2{
-      font-size: 25px;
+    h1{
       font-style: 700px;
       font-family: Outfit-ExtraBold;
       color: hsl(218, 44%, 22%);
       margin-top: 10px;
     }
 
-    h4{
+    p{
       font-size: 15px;
       font-weight: 400px;
       font-family: Outfit-ExtraLight;
